@@ -15,7 +15,7 @@
         justify-content: center;
         align-items: center;
         height: 100vh;
-        text-align: center;
+        text-align: centermm;
     }
 
     .container {
