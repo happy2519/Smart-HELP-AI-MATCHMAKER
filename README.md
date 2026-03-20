@@ -1,73 +1,67 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Smart Help</title>
+# 🌱 Smart Help
 
-<style>
-    body {
-        margin: 0;
-        background-color: #0a0a0a;
-        color: #e6d6ff;
-        font-family: Arial, sans-serif;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        text-align: centermm;
-    }
+> Connecting volunteers with NGOs to create meaningful impact
 
-    .container {
-        max-width: 600px;
-    }
+---
 
-    img {
-        width: 80px;
-        margin-bottom: 20px;
-    }
+## 🚀 Live Demo
 
-    h1 {
-        border-bottom: 2px solid #b57edc;
-        padding-bottom: 10px;
-        margin-bottom: 20px;
-    }
+👉 [View Website](https://your-username.github.io/repo-name/)
 
-    .line {
-        opacity: 0;
-        animation: fadeIn 1s forwards;
-    }
+---
 
-    .line:nth-child(1) { animation-delay: 0.5s; }
-    .line:nth-child(2) { animation-delay: 1.5s; }
-    .line:nth-child(3) { animation-delay: 2.5s; }
-    .line:nth-child(4) { animation-delay: 3.5s; }
-    .line:nth-child(5) { animation-delay: 4.5s; }
+## 📌 About
 
-    @keyframes fadeIn {
-        to {
-            opacity: 1;
-        }
-    }
-</style>
+**Smart Help** is a simple and smart platform that connects volunteers with NGOs.
+It helps users discover organizations, contribute to causes, and track their activities in an efficient way.
 
-</head>
+---
 
-<body>
+## ⚡ Features
 
-<div class="container">
+* 🔍 NGO and volunteer matching
+* 📍 Location-based discovery
+* 📊 Activity tracking
+* 🔐 Secure and reliable system
 
-    <!-- Sapling Image -->
-    <img src="https://cdn-icons-png.flaticon.com/512/2909/2909765.png" alt="sapling">
+---
 
-    <h1 class="line">Smart Help</h1>
+## 🎯 Vision
 
-    <p class="line">Connecting volunteers with NGOs.</p>
-    <p class="line">Discover. Contribute. Make an impact.</p>
-    <p class="line">Track activities in real-time.</p>
-    <p class="line">Simple. Secure. Meaningful.</p>
+To make volunteering more accessible, transparent, and impactful using technology.
 
-</div>
+---
 
-</body>
-</html>
+## 🛠️ Tech Stack
+
+* HTML
+* CSS
+* (Future: JavaScript / AI Integration)
+
+---
+
+## 📷 Preview
+
+*Add your website screenshot here*
+
+---
+
+## 📂 Project Setup
+
+```bash
+git clone https://github.com/your-username/repo-name.git
+cd repo-name
+open index.html
+```
+
+---
+
+## 🤝 Contribution
+
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
