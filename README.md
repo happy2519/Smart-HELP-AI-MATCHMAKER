@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 [View Website](https://your-username.github.io/repo-name/)
+https://aistudio.google.com/apps/73cd910f-19d8-4dae-96dc-30c377980a97?fullscreenApplet=true&showPreview=true&showAssistant=true 
 
 ---
 
@@ -42,7 +42,8 @@ To make volunteering more accessible, transparent, and impactful using technolog
 
 ## 📷 Preview
 
-*Add your website screenshot here*
+<img width="1919" height="1010" alt="Screenshot 2026-03-20 233540" src="https://github.com/user-attachments/assets/66fb602d-0a48-48ec-a101-0e01a5a236d2" />
+
 
 ---
 
